@@ -20,13 +20,6 @@ const Projectss = () => {
             github: 'https://github.com/Thomson1998/Shopping-cart',
             demo: 'https://effortless-halva-462e86.netlify.app/',
         },
-        {
-            id: 3,
-            image: todolist,
-            title: 'To-Do-List',
-            github: 'https://github.com/Thomson1998/To-Do-List-FS-MERN-FE',
-            demo: 'https://to-do-list-fs-mern.netlify.app/',
-        },
     ]
   return (
     <div name='projects' 

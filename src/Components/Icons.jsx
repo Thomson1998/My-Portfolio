@@ -51,7 +51,7 @@ const Icons = () => {
                 Resume <BsFillPersonLinesFill size={30} />
             </>
             ),
-            href: 'https://drive.google.com/file/d/1QRtIZMIRGZ0IyxcNydK4toCS1xHmFI4F/view?usp=drive_link',
+            href: 'https://drive.google.com/file/d/1nhJ7bB2nCTvF1K5mWWA0sKBcFlAbwVxb/view',
             style: 'rounded-br-md',
         }
     ]

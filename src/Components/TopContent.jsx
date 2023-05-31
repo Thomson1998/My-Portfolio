@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import { ImWhatsapp } from 'react-icons/im'
 import { HiOutlineMail } from 'react-icons/hi'
 import { TbArrowRightTail } from 'react-icons/tb'
-import { TbDownload } from 'react-icons/tb'
+import { IoIosEye } from 'react-icons/io'
 import { Link } from 'react-scroll'
 
 const TopContent = () => {
@@ -35,9 +35,9 @@ const profile = [
         <h2 className='text-4xl sm:text-7xl font-bold text-white'>THOMSON</h2>
         <h3 className='text-2xl sm:text-3xl font-bold text-white py-6 max-w-md'>Full Stack Developer</h3>
 
-        <a href="/THOMSON_RESUME.pdf" download='true' className=' text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer hover:scale-110'>
+        <a href="https://drive.google.com/file/d/1QRtIZMIRGZ0IyxcNydK4toCS1xHmFI4F/view?usp=drive_link" className=' text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer hover:scale-110'>
             Resume
-            <span> <TbDownload /> </span>
+            <span> <IoIosEye /> </span>
         </a>
 
 

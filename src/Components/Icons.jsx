@@ -51,7 +51,7 @@ const Icons = () => {
                 Resume <BsFillPersonLinesFill size={30} />
             </>
             ),
-            href: '/THOMSON_RESUME.pdf',
+            href: 'https://drive.google.com/file/d/1QRtIZMIRGZ0IyxcNydK4toCS1xHmFI4F/view?usp=drive_link',
             style: 'rounded-br-md',
             download: 'true',
         }

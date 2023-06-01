@@ -20,7 +20,7 @@ const About = () => {
             <br />
 
             <p className='text-2xl'>
-            Hi, I'm a Well-qualified Full Stack Developer specialized in MERN Stack and familiar with a wide range of programming utilities and languages. Knowledgeable of front-end and back-end development requirements with database management. Handles any part of the process with ease.
+            Hi, I'm a well-qualified full-stack developer specialising in MERN stack and familiar with a wide range of programming utilities and languages. Knowledgeable of front-end and back-end development requirements with database management. Handles any part of the process with ease.
             </p>
             <br />
             <br />
